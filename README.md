@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a Software Developer/QA Automation Engineer who loves programming languages and web development.<br><br>🔭 Current projects<br>Expense tracker<br><br>🌱 I’m currently learning<br>Cypress<br>Python<br>Vue<br><br>📫 How to reach me<br>ebosquesm@gmail.com<br>[LinkedIn](https://www.linkedin.com/in/ebosques/)<br><br>⚡ Fun fact<br>I love ketchup, but don't like tomatoes
+Hi there! 👋 I'm a Software Developer/QA Automation Engineer who loves programming languages and web development.<br><br>🔭 Current projects<br>Expense tracker<br>Character Sheet<br><br>🌱 I’m currently learning<br>Cypress<br>Python<br>Vue<br>Svelte<br><br>📫 How to reach me<br>ebosquesm@gmail.com<br>[LinkedIn](https://www.linkedin.com/in/ebosques/)<br><br>⚡ Fun fact<br>I love ketchup, but don't like tomatoes
 
 
 ## 🌐 Socials:
